@@ -15,7 +15,7 @@ class Session:
     def __init__(self):
         self.id = uuid.uuid1()
         self.tags_dict = {}
-        self.expiration_time = Session.__get_expiration_time()
+        self.expiration_time = self.__get_expiration_time()
 
     def __get_expiration_time(self):
         _now = datetime.datetime.now()

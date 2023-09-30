@@ -1,22 +1,14 @@
 import spacy
-import spacy_transformers
+from keras.models import load_model
 import json
-from spacy.tokens import DocBin
-from tqdm import tqdm
-from spacy.util import filter_spans
-from pathlib import Path
-from spacy.cli.download import download
-from spacy.cli.init_config import fill_config
-from spacy.cli.train import train
+import pickle
+
+NLP_MODEL = spacy.load("chatbot_data/model-best")
+CLASSIFICATION_MODEL = load_model('chatbot_data/chatbot_model.h5')
+INTENTS = json.loads(open('chatbot_data/intents.json').read())
+WORDS = pickle.load(open('chatbot_data/words.pkl', 'rb'))
+CLASSES = pickle.load(open('chatbot_data/classes.pkl', 'rb'))
 
 
 def init_static_context():
-    _init_ner_model()
-
-
-def _init_ner_model():
-    nlp_ner = spacy.load("model-best")
-    doc = nlp_ner(
-        "Dzień dobry, interesuję się studiami na Akademii Teatralnej im. Aleksandra Zelwerowicza w Warszawie. Czy m")
-
-    spacy.displacy.render(doc, style="ent", jupyter=True)
+    pass

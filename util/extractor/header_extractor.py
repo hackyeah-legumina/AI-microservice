@@ -1,15 +1,12 @@
 def extract_session_id(request):
-    session_id = request.headers['BOT_SESSION_ID']
-
-    if session_id is None:
+    if 'BOT_SESSION_ID' not in request.headers.keys():
         return ""
 
-    return session_id
+    return request.headers['BOT_SESSION_ID']
+
 
 def extract_lang(request):
-    language = request.headers['LANG']
-
-    if language is None:
+    if 'LANG' not in request.headers.keys():
         return "EN"
 
-    return language
+    return request.headers['BOT_SESSION_ID']

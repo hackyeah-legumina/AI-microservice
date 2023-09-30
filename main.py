@@ -11,10 +11,10 @@ model_service = ModelService()
 init_static_context()
 
 
-@app.route("/", methods = ['GET'])
+@app.route("/", methods = ['POST'])
 def hello_world():
     return model_service.handle_conversation_request(request)
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=2137)

@@ -74,15 +74,15 @@
     {
       "tag": "FindStudies",
       "patterns": [
-        "Czy istnieje uczelnia o nazwie {university_name} w {city}?",
-        "Czy uczelnia {university_name} znajduje się w {city}?",
-        "Czy uczelnia {university_name} oferuje kierunek studiów na {kierunek}?",
-        "Czy uczelnia {university_name} w {city} oferuje zarówno studia dzienne, jak i zaoczne?",
-        "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni {university_name} w {city}?",
         "Pokaz dostepne uczelnie w {city}",
         "Pokaz informacje o uczelni {university_name}",
         "Uczelnia {university_name}",
-        "Kierunki studiow w {city}"
+        "Kierunki studiow w {city}",
+        "Pokaz mi {kierunek} w {city}",
+        "Studiowanie {kierunek} w {city}",
+        "Pokaz dostepne uczelnie w {city}",
+        "Pokaz informacje o uczelni {university_name}",
+        "Uczelnia {university_name}"
       ],
       "responses": [
         "Oto wyniki: {result}"
