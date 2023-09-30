@@ -1,354 +1,18 @@
 {
   "examples": [
     {
-      "id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
-      "content": "Cześć, jestem osobą szukającą informacji o studiach na uczelni Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie.",
+      "id": "25aed6f4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Akademia Piotrkowska w Krakow?",
       "metadata": {},
       "annotations": [
         {
-          "id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
+          "id": "25aed794-5fd4-11ee-a1eb-662001ce32f6",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 98,
-          "start": 40,
-          "example_id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
-          "tag_name": "University",
-          "value": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
-      "content": "Cześć, jestem osobą szukającą informacji o studiach na uczelni Akademia Humanistyczno-Ekonomiczna w Łodzi.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 81,
-          "start": 40,
-          "example_id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
-          "tag_name": "University",
-          "value": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
-      "content": "Cześć, jestem osobą szukającą informacji o studiach na uczelni Akademia Ignatianum w Krakowie.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 78,
-          "start": 40,
-          "example_id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
-          "tag_name": "University",
-          "value": "Akademia Ignatianum w Krakowie",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
-      "content": "Cześć, jestem osobą szukającą informacji o studiach na uczelni Akademia Leona Koźmińskiego w Warszawie.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 80,
-          "start": 40,
-          "example_id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
-          "tag_name": "University",
-          "value": "Akademia Leona Koźmińskiego w Warszawie",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
-      "content": "Cześć, jestem osobą szukającą informacji o studiach na uczelni Akademia Marynarki Wojennej im. Bohaterów Westerplatte.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 96,
-          "start": 40,
-          "example_id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
-          "tag_name": "University",
-          "value": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
-      "content": "Cześć, jestem osobą szukającą informacji o studiach na uczelni Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 98,
-          "start": 40,
-          "example_id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
-          "tag_name": "University",
-          "value": "Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
-      "content": "Cześć, mam pytanie dotyczące oferty edukacyjnej Akademii Górniczo-Hutnicza im. Stanisława Staszica w Krakowie. Chciałbym dowiedzieć się więcej o studiach inżynierskich.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 68,
-          "start": 53,
-          "example_id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
-          "tag_name": "University",
-          "value": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
-      "content": "Witam, słyszałem wiele dobrego o Akademii Marynarki Wojennej im. Bohaterów Westerplatte i chciałbym się zorientować, czy oferują studia związane z marynarką wojenną.",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 57,
-          "start": 36,
-          "example_id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
-          "tag_name": "University",
-          "value": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
-      "content": "Dzień dobry, jestem zainteresowany studiami na Akademii Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu. Czy mogę uzyskać więcej informacji na ten temat?",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 73,
-          "start": 54,
-          "example_id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
-          "tag_name": "University",
-          "value": "Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
-      "content": "Hej, słyszałem, że Akademia Ignatianum w Krakowie ma ciekawe kierunki studiów z psychologii. Czy mogę dowiedzieć się, jakie są wymagania rekrutacyjne?",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 50,
-          "start": 25,
-          "example_id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
-          "tag_name": "University",
-          "value": "Akademia Ignatianum w Krakowie",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
-      "content": "Dzień dobry, interesuję się studiami na Akademii Teatralnej im. Aleksandra Zelwerowicza w Warszawie. Czy mogę uzyskać więcej informacji na temat programu nauczania?",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 67,
-          "start": 46,
-          "example_id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
-          "tag_name": "University",
-          "value": "Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
-      "content": "Witaj, mam pytanie dotyczące oferty studiów na Akademii Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku. Czy prowadzą kierunki związane z turystyką?",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 67,
-          "start": 50,
-          "example_id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
-          "tag_name": "University",
-          "value": "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",
-          "correct": null,
-          "human_annotations": [
-            {
-              "timestamp": "2020-03-21T00:24:32.098000Z",
-              "annotator_id": 1,
-              "tagged_token_id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
-              "name": "Ashpat123",
-              "reason": "exploration"
-            }
-          ],
-          "model_annotations": []
-        }
-      ],
-      "classifications": []
-    },
-    {
-      "id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
-      "content": "Dzień dobry, interesuję się studiami na Gdańskim Uniwersytecie Medycznym. Czy mogę dowiedzieć się, jakie kierunki są dostępne na tej uczelni?",
-      "metadata": {},
-      "annotations": [
-        {
-          "id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
-          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 49,
+          "end": 51,
           "start": 31,
-          "example_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+          "example_id": "25aed7c6-5fd4-11ee-a1eb-662001ce32f6",
           "tag_name": "University",
-          "value": "Gdański Uniwersytet Medyczny",
+          "value": "Akademia Piotrkowska",
           "correct": null,
           "human_annotations": [
             {
@@ -365,18 +29,5002 @@
       "classifications": []
     },
     {
-      "id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
-      "content": "Dzień dobry, interesuję się studiami na Gdańskim Uniwersytecie Medycznym. Czy mogę dowiedzieć się, jakie kierunki są dostępne na tej uczelni?",
+      "id": "25af2be0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Akademia Piotrkowska znajduje się w Krakow?",
       "metadata": {},
       "annotations": [
         {
-          "id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+          "id": "25af2c4e-5fd4-11ee-a1eb-662001ce32f6",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 49,
-          "start": 31,
-          "example_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+          "end": 33,
+          "start": 13,
+          "example_id": "25af2c76-5fd4-11ee-a1eb-662001ce32f6",
           "tag_name": "University",
-          "value": "Gdański Uniwersytet Medyczny",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25af71cc-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Akademia Piotrkowska oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25af7230-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 33,
+          "start": 13,
+          "example_id": "25af7258-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25afb236-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Akademia Piotrkowska w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25afb29a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 33,
+          "start": 13,
+          "example_id": "25afb2b8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b000ec-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Akademia Piotrkowska w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b00178-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 83,
+          "start": 63,
+          "example_id": "25b001be-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b04a84-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b04ad4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 19,
+          "start": -1,
+          "example_id": "25b04ae8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b08d46-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Akademia Piotrkowska",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b08daa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 47,
+          "start": 27,
+          "example_id": "25b08dc8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b0d030-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Akademia Piotrkowska",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b0d094-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 29,
+          "start": 9,
+          "example_id": "25b0d0b2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b10a50-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b10a96-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 19,
+          "start": -1,
+          "example_id": "25b10abe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Akademia Piotrkowska",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b14c2c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Biuro Promocji Nauki PolSCA w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b14c68-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 58,
+          "start": 31,
+          "example_id": "25b14c90-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b180ca-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Biuro Promocji Nauki PolSCA znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b180fc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 13,
+          "example_id": "25b18110-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b1b63a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Biuro Promocji Nauki PolSCA oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b1b680-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 13,
+          "example_id": "25b1b69e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b1e9ca-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Biuro Promocji Nauki PolSCA w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b1e9fc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 13,
+          "example_id": "25b1ea1a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b21d78-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Biuro Promocji Nauki PolSCA w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b21daa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 90,
+          "start": 63,
+          "example_id": "25b21dbe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b25202-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b2522a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 26,
+          "start": -1,
+          "example_id": "25b25248-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b286a0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Biuro Promocji Nauki PolSCA",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b286d2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 54,
+          "start": 27,
+          "example_id": "25b286f0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b2bc56-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Biuro Promocji Nauki PolSCA",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b2bc88-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 36,
+          "start": 9,
+          "example_id": "25b2bc9c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b2f4a0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b2f4dc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 26,
+          "start": -1,
+          "example_id": "25b2f4f0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Biuro Promocji Nauki PolSCA",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b333ac-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Centrum Badań i Innowacji Pro-Akademia w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b333f2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 69,
+          "start": 31,
+          "example_id": "25b33406-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b372c2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Centrum Badań i Innowacji Pro-Akademia znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b37308-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 51,
+          "start": 13,
+          "example_id": "25b37326-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b3be12-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Centrum Badań i Innowacji Pro-Akademia oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b3be62-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 51,
+          "start": 13,
+          "example_id": "25b3be80-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b3fe9a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Centrum Badań i Innowacji Pro-Akademia w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b3feea-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 51,
+          "start": 13,
+          "example_id": "25b3ff08-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b4514c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Centrum Badań i Innowacji Pro-Akademia w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b4519c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 101,
+          "start": 63,
+          "example_id": "25b451ba-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b499ea-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b49a3a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 37,
+          "start": -1,
+          "example_id": "25b49a62-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b4ea44-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Centrum Badań i Innowacji Pro-Akademia",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b4ea8a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 65,
+          "start": 27,
+          "example_id": "25b4eaa8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b53148-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Centrum Badań i Innowacji Pro-Akademia",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b53198-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 47,
+          "start": 9,
+          "example_id": "25b531b6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b5752c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b57590-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 37,
+          "start": -1,
+          "example_id": "25b575ae-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badań i Innowacji Pro-Akademia",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b5b726-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o. w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b5b762-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 83,
+          "start": 31,
+          "example_id": "25b5b780-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b5f196-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o. znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b5f1f0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 65,
+          "start": 13,
+          "example_id": "25b5f20e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b63a5c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o. oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b63ab6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 65,
+          "start": 13,
+          "example_id": "25b63ade-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b678c8-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o. w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b6790e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 65,
+          "start": 13,
+          "example_id": "25b6792c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b6ba2c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o. w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b6ba7c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 115,
+          "start": 63,
+          "example_id": "25b6ba9a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b6fbb8-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b6fc08-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 51,
+          "start": -1,
+          "example_id": "25b6fc30-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b75400-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b75450-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 79,
+          "start": 27,
+          "example_id": "25b7546e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b7919a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b791ea-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 61,
+          "start": 9,
+          "example_id": "25b79208-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b7ceda-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b7cf16-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 51,
+          "start": -1,
+          "example_id": "25b7cf2a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Centrum Badawczo-Konstrukcyjne Obrabiarek Sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b80878-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b808b4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 95,
+          "start": 31,
+          "example_id": "25b808d2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b84400-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b84450-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 77,
+          "start": 13,
+          "example_id": "25b8446e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b87dbc-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b87df8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 77,
+          "start": 13,
+          "example_id": "25b87e0c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b8bd2c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b8bd5e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 77,
+          "start": 13,
+          "example_id": "25b8bd7c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b8fde6-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b8fe18-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 127,
+          "start": 63,
+          "example_id": "25b8fe36-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b93806-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b93842-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 63,
+          "start": -1,
+          "example_id": "25b93860-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b973a2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b973de-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 91,
+          "start": 27,
+          "example_id": "25b973f2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b9b826-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b9b86c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 73,
+          "start": 9,
+          "example_id": "25b9b880-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25b9f35e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25b9f3b8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 63,
+          "start": -1,
+          "example_id": "25b9f3cc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ba31ac-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ba3206-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 88,
+          "start": 31,
+          "example_id": "25ba3224-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ba6bae-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ba6bea-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 70,
+          "start": 13,
+          "example_id": "25ba6bfe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25baaec0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25baaefc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 70,
+          "start": 13,
+          "example_id": "25baaf1a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25baec78-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25baecb4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 70,
+          "start": 13,
+          "example_id": "25baecd2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bb2bde-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bb2c10-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 120,
+          "start": 63,
+          "example_id": "25bb2c2e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bb6996-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bb69e6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": -1,
+          "example_id": "25bb6a04-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bbabfe-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bbac44-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 84,
+          "start": 27,
+          "example_id": "25bbac62-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bbe498-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bbe4ca-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 66,
+          "start": 9,
+          "example_id": "25bbe4e8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bc1d46-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bc1d82-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": -1,
+          "example_id": "25bc1da0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bc59c8-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bc5a04-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 105,
+          "start": 31,
+          "example_id": "25bc5a22-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bc9104-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bc9140-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 87,
+          "start": 13,
+          "example_id": "25bc9154-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bcd0c4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bcd10a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 87,
+          "start": 13,
+          "example_id": "25bcd11e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bd1232-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bd126e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 87,
+          "start": 13,
+          "example_id": "25bd128c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bd4d24-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bd4d60-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 137,
+          "start": 63,
+          "example_id": "25bd4d7e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bd88ac-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bd88de-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 73,
+          "start": -1,
+          "example_id": "25bd88f2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bdbf16-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bdbf5c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 101,
+          "start": 27,
+          "example_id": "25bdbf70-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25be002a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25be0066-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 83,
+          "start": 9,
+          "example_id": "25be0084-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25be3bb2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25be3bf8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 73,
+          "start": -1,
+          "example_id": "25be3c0c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25be76ae-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Instytut Badawczy Leśnictwa w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25be76e0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 58,
+          "start": 31,
+          "example_id": "25be76fe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25beb448-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Badawczy Leśnictwa znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25beb498-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 13,
+          "example_id": "25beb4b6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bef3a4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Badawczy Leśnictwa oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bef3e0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 13,
+          "example_id": "25bef3fe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bf3102-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Badawczy Leśnictwa w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bf313e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 13,
+          "example_id": "25bf3152-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bf6ba4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Instytut Badawczy Leśnictwa w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bf6bd6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 90,
+          "start": 63,
+          "example_id": "25bf6bf4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bfa59c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bfa5e2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 26,
+          "start": -1,
+          "example_id": "25bfa5f6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25bfe066-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Instytut Badawczy Leśnictwa",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25bfe0a2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 54,
+          "start": 27,
+          "example_id": "25bfe0c0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c0198c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Instytut Badawczy Leśnictwa",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c019be-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 36,
+          "start": 9,
+          "example_id": "25c019d2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c052ee-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c0533e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 26,
+          "start": -1,
+          "example_id": "25c0535c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Badawczy Leśnictwa",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c08f8e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Instytut Biologii Ssaków Polskiej Akademii Nauk w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c08fca-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 78,
+          "start": 31,
+          "example_id": "25c08fe8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c0d26e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Biologii Ssaków Polskiej Akademii Nauk znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c0d2b4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 60,
+          "start": 13,
+          "example_id": "25c0d2d2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c114a4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Biologii Ssaków Polskiej Akademii Nauk oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c114ea-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 60,
+          "start": 13,
+          "example_id": "25c114fe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c1541e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Biologii Ssaków Polskiej Akademii Nauk w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c1546e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 60,
+          "start": 13,
+          "example_id": "25c1548c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c19172-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Instytut Biologii Ssaków Polskiej Akademii Nauk w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c191ae-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 110,
+          "start": 63,
+          "example_id": "25c191cc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c1cda4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c1cdd6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 46,
+          "start": -1,
+          "example_id": "25c1cdf4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c201c0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Instytut Biologii Ssaków Polskiej Akademii Nauk",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c201f2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 74,
+          "start": 27,
+          "example_id": "25c20206-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c23fbe-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Instytut Biologii Ssaków Polskiej Akademii Nauk",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c23ffa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 9,
+          "example_id": "25c24018-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c28032-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c2806e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 46,
+          "start": -1,
+          "example_id": "25c2808c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Biologii Ssaków Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c2b91c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c2b94e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 117,
+          "start": 31,
+          "example_id": "25c2b962-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c2ed06-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c2ed2e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 99,
+          "start": 13,
+          "example_id": "25c2ed4c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c32244-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c32294-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 99,
+          "start": 13,
+          "example_id": "25c322b2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c3567e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c356a6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 99,
+          "start": 13,
+          "example_id": "25c356ba-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c38b12-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c38b3a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 149,
+          "start": 63,
+          "example_id": "25c38b58-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c3c0d2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c3c0fa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 85,
+          "start": -1,
+          "example_id": "25c3c118-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c3f2e6-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c3f30e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 113,
+          "start": 27,
+          "example_id": "25c3f32c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c42a7c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c42aa4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 95,
+          "start": 9,
+          "example_id": "25c42ac2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c45c9a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c45ccc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 85,
+          "start": -1,
+          "example_id": "25c45ce0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c492b4-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Instytut Oceanologii Polskiej Akademii Nauk w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c492e6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 74,
+          "start": 31,
+          "example_id": "25c492fa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c4ce28-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Oceanologii Polskiej Akademii Nauk znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c4ce64-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 13,
+          "example_id": "25c4ce78-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c50e56-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Oceanologii Polskiej Akademii Nauk oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c50e92-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 13,
+          "example_id": "25c50eb0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c5505a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Instytut Oceanologii Polskiej Akademii Nauk w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c550c8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 13,
+          "example_id": "25c550e6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c591a0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Instytut Oceanologii Polskiej Akademii Nauk w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c591e6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 106,
+          "start": 63,
+          "example_id": "25c59204-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c5c7e2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c5c814-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": -1,
+          "example_id": "25c5c832-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c73c62-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Instytut Oceanologii Polskiej Akademii Nauk",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c73cda-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 70,
+          "start": 27,
+          "example_id": "25c73cf8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c784ba-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Instytut Oceanologii Polskiej Akademii Nauk",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c7850a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 52,
+          "start": 9,
+          "example_id": "25c78528-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c7bf7a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c7bfc0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": -1,
+          "example_id": "25c7bfde-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Instytut Oceanologii Polskiej Akademii Nauk",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c7f968-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c7f9b8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 76,
+          "start": 31,
+          "example_id": "25c7f9d6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c842ec-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c84350-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 58,
+          "start": 13,
+          "example_id": "25c8436e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c88162-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c881bc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 58,
+          "start": 13,
+          "example_id": "25c881e4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c8ba56-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c8ba9c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 58,
+          "start": 13,
+          "example_id": "25c8baba-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c8edbe-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c8edfa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 108,
+          "start": 63,
+          "example_id": "25c8ee18-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c92824-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c9287e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 44,
+          "start": -1,
+          "example_id": "25c9289c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c95a56-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c95a88-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 72,
+          "start": 27,
+          "example_id": "25c95a9c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c9a3b2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c9a420-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 54,
+          "start": 9,
+          "example_id": "25c9a43e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25c9d972-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25c9d9a4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 44,
+          "start": -1,
+          "example_id": "25c9d9c2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ca148c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Lubelska Szkoła Wyższa w Rykach w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ca14dc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 62,
+          "start": 31,
+          "example_id": "25ca14fa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ca45f6-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Lubelska Szkoła Wyższa w Rykach znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ca4628-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 44,
+          "start": 13,
+          "example_id": "25ca4646-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ca7814-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Lubelska Szkoła Wyższa w Rykach oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ca7846-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 44,
+          "start": 13,
+          "example_id": "25ca7864-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25caabcc-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Lubelska Szkoła Wyższa w Rykach w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25caabfe-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 44,
+          "start": 13,
+          "example_id": "25caac1c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cae6c8-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Lubelska Szkoła Wyższa w Rykach w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cae70e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 94,
+          "start": 63,
+          "example_id": "25cae72c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cb203e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cb2070-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 30,
+          "start": -1,
+          "example_id": "25cb208e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cb568a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Lubelska Szkoła Wyższa w Rykach",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cb56b2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 58,
+          "start": 27,
+          "example_id": "25cb56d0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cb9276-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Lubelska Szkoła Wyższa w Rykach",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cb92b2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 40,
+          "start": 9,
+          "example_id": "25cb92d0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cbcb06-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cbcb42-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 30,
+          "start": -1,
+          "example_id": "25cbcb56-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Lubelska Szkoła Wyższa w Rykach",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cc0814-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cc0846-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 89,
+          "start": 31,
+          "example_id": "25cc085a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cc445a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cc4496-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 71,
+          "start": 13,
+          "example_id": "25cc44b4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cc7b46-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cc7b82-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 71,
+          "start": 13,
+          "example_id": "25cc7ba0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ccb070-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ccb0a2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 71,
+          "start": 13,
+          "example_id": "25ccb0c0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cce810-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cce84c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 121,
+          "start": 63,
+          "example_id": "25cce86a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cd2ae6-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cd2b18-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 57,
+          "start": -1,
+          "example_id": "25cd2b36-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cd6736-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cd679a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 85,
+          "start": 27,
+          "example_id": "25cd67c2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cdafac-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cdaffc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 67,
+          "start": 9,
+          "example_id": "25cdb01a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cdf656-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cdf6c4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 57,
+          "start": -1,
+          "example_id": "25cdf6e2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ce3152-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Muzeum Górnośląskie w Bytomiu w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ce3198-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 60,
+          "start": 31,
+          "example_id": "25ce31b6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ce74d2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Muzeum Górnośląskie w Bytomiu znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ce7518-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": 13,
+          "example_id": "25ce7536-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25ceb140-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Muzeum Górnośląskie w Bytomiu oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25ceb186-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": 13,
+          "example_id": "25ceb19a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cef042-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Muzeum Górnośląskie w Bytomiu w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cef088-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": 13,
+          "example_id": "25cef0a6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cf31ce-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Muzeum Górnośląskie w Bytomiu w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cf321e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 92,
+          "start": 63,
+          "example_id": "25cf323c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cf756c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cf75bc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 28,
+          "start": -1,
+          "example_id": "25cf75da-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cfb16c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Muzeum Górnośląskie w Bytomiu",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cfb19e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 27,
+          "example_id": "25cfb1bc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25cfef42-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Muzeum Górnośląskie w Bytomiu",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25cfef9c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 38,
+          "start": 9,
+          "example_id": "25cfefba-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d03038-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d0307e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 28,
+          "start": -1,
+          "example_id": "25d03092-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Muzeum Górnośląskie w Bytomiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d07304-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o. w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d0734a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 100,
+          "start": 31,
+          "example_id": "25d07368-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d0ab44-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o. znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d0ab76-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 82,
+          "start": 13,
+          "example_id": "25d0ab94-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d0e2d0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o. oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d0e302-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 82,
+          "start": 13,
+          "example_id": "25d0e320-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d11610-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o. w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d11642-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 82,
+          "start": 13,
+          "example_id": "25d11660-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d14f04-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o. w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d14f4a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 132,
+          "start": 63,
+          "example_id": "25d14f68-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d1894c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d18988-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 68,
+          "start": -1,
+          "example_id": "25d1899c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d1c146-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d1c1a0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 96,
+          "start": 27,
+          "example_id": "25d1c1be-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d1fa26-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d1fa62-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 78,
+          "start": 9,
+          "example_id": "25d1fa80-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d22f46-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d22f78-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 68,
+          "start": -1,
+          "example_id": "25d22f96-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych sp. z o.o.",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d2683a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d2686c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 121,
+          "start": 31,
+          "example_id": "25d2688a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d29fb2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d29fe4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 103,
+          "start": 13,
+          "example_id": "25d2a002-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d2d798-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d2d824-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 103,
+          "start": 13,
+          "example_id": "25d2d84c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d31a82-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d31ac8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 103,
+          "start": 13,
+          "example_id": "25d31ae6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d35a06-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d35a56-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 153,
+          "start": 63,
+          "example_id": "25d35a74-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d39ab6-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d39afc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 89,
+          "start": -1,
+          "example_id": "25d39b10-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d3dcb0-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d3dd00-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 117,
+          "start": 27,
+          "example_id": "25d3dd1e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d41ba8-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d41bda-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 99,
+          "start": 9,
+          "example_id": "25d41bf8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d455be-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d45618-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 89,
+          "start": -1,
+          "example_id": "25d4562c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d49c72-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Państwowa Wyższa Szkoła Zawodowa w Głogowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d49cc2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 74,
+          "start": 31,
+          "example_id": "25d49cea-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d4e254-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Państwowa Wyższa Szkoła Zawodowa w Głogowie znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d4e2ae-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 13,
+          "example_id": "25d4e2cc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d52732-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Państwowa Wyższa Szkoła Zawodowa w Głogowie oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d52782-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 13,
+          "example_id": "25d527a0-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d56490-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Państwowa Wyższa Szkoła Zawodowa w Głogowie w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d564d6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 56,
+          "start": 13,
+          "example_id": "25d564f4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d59a32-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Państwowa Wyższa Szkoła Zawodowa w Głogowie w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d59a6e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 106,
+          "start": 63,
+          "example_id": "25d59a82-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d5da38-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d5da7e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": -1,
+          "example_id": "25d5da9c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d60eb8-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d60ef4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 70,
+          "start": 27,
+          "example_id": "25d60f12-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d6470c-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d64748-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 52,
+          "start": 9,
+          "example_id": "25d6475c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d68488-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d684c4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 42,
+          "start": -1,
+          "example_id": "25d684e2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Państwowa Wyższa Szkoła Zawodowa w Głogowie",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d6c358-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d6c394-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 96,
+          "start": 31,
+          "example_id": "25d6c3a8-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d709bc-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d70a16-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 78,
+          "start": 13,
+          "example_id": "25d70a34-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d749cc-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d74a1c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 78,
+          "start": 13,
+          "example_id": "25d74a3a-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d7854a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d78590-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 78,
+          "start": 13,
+          "example_id": "25d785ae-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d7ca1e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d7ca78-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 128,
+          "start": 63,
+          "example_id": "25d7ca96-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d81582-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d815e6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 64,
+          "start": -1,
+          "example_id": "25d81604-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d859ac-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d859f2-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 92,
+          "start": 27,
+          "example_id": "25d85a10-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d89c32-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d89c8c-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 74,
+          "start": 9,
+          "example_id": "25d89caa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d8d8aa-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d8d8fa-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 64,
+          "start": -1,
+          "example_id": "25d8d918-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d91f4a-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy istnieje uczelnia o nazwie Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d91f90-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 106,
+          "start": 31,
+          "example_id": "25d91fae-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d95e56-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu znajduje się w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d95ea6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 88,
+          "start": 13,
+          "example_id": "25d95ec4-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d99ede-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu oferuje kierunek studiów na {kierunek}?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d99f24-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 88,
+          "start": 13,
+          "example_id": "25d99f42-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25d9d6f6-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Czy uczelnia Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu w Krakow oferuje zarówno studia dzienne, jak i zaoczne?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25d9d750-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 88,
+          "start": 13,
+          "example_id": "25d9d76e-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25da2124-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu w Krakow?",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25da2174-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 138,
+          "start": 63,
+          "example_id": "25da2192-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25da60b2-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz dostepne uczelnie w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25da6102-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 74,
+          "start": -1,
+          "example_id": "25da6120-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25daa1da-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Pokaz informacje o uczelni Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25daa216-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 102,
+          "start": 27,
+          "example_id": "25daa234-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25dadf60-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Uczelnia Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25dadfa6-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 84,
+          "start": 9,
+          "example_id": "25dadfba-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
+          "correct": null,
+          "human_annotations": [
+            {
+              "timestamp": "2020-03-21T00:24:32.098000Z",
+              "annotator_id": 1,
+              "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
+              "name": "Ashpat123",
+              "reason": "exploration"
+            }
+          ],
+          "model_annotations": []
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "id": "25db216e-5fd4-11ee-a1eb-662001ce32f6",
+      "content": "Kierunki studiow w Krakow",
+      "metadata": {},
+      "annotations": [
+        {
+          "id": "25db21be-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
+          "end": 74,
+          "start": -1,
+          "example_id": "25db21dc-5fd4-11ee-a1eb-662001ce32f6",
+          "tag_name": "University",
+          "value": "Polska Akademia Nauk Zakład Ichtiobiologii i Gospodarki Rybackiej w Gołyszu",
           "correct": null,
           "human_annotations": [
             {
