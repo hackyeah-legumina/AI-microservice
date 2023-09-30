@@ -8,8 +8,8 @@
         {
           "id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 98,
-          "start": 40,
+          "end": 125,
+          "start": 64,
           "example_id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
           "tag_name": "University",
           "value": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
@@ -19,7 +19,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "0825a1bf-6a6e-4fa2-be77-8d104701eaed",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -36,8 +36,8 @@
         {
           "id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 81,
-          "start": 40,
+          "end": 106,
+          "start": 64,
           "example_id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
           "tag_name": "University",
           "value": "Akademia Humanistyczno-Ekonomiczna w Łodzi",
@@ -47,7 +47,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "18c2f619-f102-452f-ab81-d26f7e283ffe",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -64,8 +64,8 @@
         {
           "id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 78,
-          "start": 40,
+          "end": 94,
+          "start": 64,
           "example_id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
           "tag_name": "University",
           "value": "Akademia Ignatianum w Krakowie",
@@ -75,7 +75,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "2f22dcb7-4f9d-4b3e-9680-91b79b17e0f1",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -92,8 +92,8 @@
         {
           "id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 80,
-          "start": 40,
+          "end": 103,
+          "start": 64,
           "example_id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
           "tag_name": "University",
           "value": "Akademia Leona Koźmińskiego w Warszawie",
@@ -103,7 +103,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "3e289c94-7f29-416b-9250-15a9ebf43c0f",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -120,8 +120,8 @@
         {
           "id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 96,
-          "start": 40,
+          "end": 118,
+          "start": 64,
           "example_id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
           "tag_name": "University",
           "value": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
@@ -131,7 +131,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "465503fc-8af1-4abf-a215-94c8ed392ff5",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -148,8 +148,8 @@
         {
           "id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 98,
-          "start": 40,
+          "end": 121,
+          "start": 64,
           "example_id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
           "tag_name": "University",
           "value": "Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
@@ -159,7 +159,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "63d3af6d-1733-4ea9-b1f9-c9c8c7f7a696",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -176,8 +176,8 @@
         {
           "id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 68,
-          "start": 53,
+          "end": 110,
+          "start": 49,
           "example_id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
           "tag_name": "University",
           "value": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
@@ -187,7 +187,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "1ea49022-7f2a-4b5d-aec7-88a91d5e0ac5",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -204,8 +204,8 @@
         {
           "id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 57,
-          "start": 36,
+          "end": 88,
+          "start": 34,
           "example_id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
           "tag_name": "University",
           "value": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
@@ -215,7 +215,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "7ac66292-242f-4a20-a2df-ee83ddcd1a75",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -232,8 +232,8 @@
         {
           "id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 73,
-          "start": 54,
+          "end": 108,
+          "start": 48,
           "example_id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
           "tag_name": "University",
           "value": "Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu",
@@ -243,7 +243,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "b90ef5aa-72b7-45bb-a35f-21206723b2e1",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -261,7 +261,7 @@
           "id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
           "end": 50,
-          "start": 25,
+          "start": 20,
           "example_id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
           "tag_name": "University",
           "value": "Akademia Ignatianum w Krakowie",
@@ -271,7 +271,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "a96e48ed-154b-41d5-a136-4d166f72fceb",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -288,8 +288,8 @@
         {
           "id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 67,
-          "start": 46,
+          "end": 100,
+          "start": 41,
           "example_id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
           "tag_name": "University",
           "value": "Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie",
@@ -299,7 +299,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "34c98d63-b8ea-4013-9a3f-2c4ce3e2e743",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -316,8 +316,8 @@
         {
           "id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 67,
-          "start": 50,
+          "end": 123,
+          "start": 48,
           "example_id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
           "tag_name": "University",
           "value": "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",
@@ -327,7 +327,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "6c6b01d6-4d7e-442d-9c97-1a10ccf066f9",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -344,8 +344,8 @@
         {
           "id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 49,
-          "start": 31,
+          "end": 73,
+          "start": 41,
           "example_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
           "tag_name": "University",
           "value": "Gdański Uniwersytet Medyczny",
@@ -355,7 +355,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],
@@ -372,8 +372,8 @@
         {
           "id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
           "tag_id": "c06bd022-6ded-44a5-8d90-f17685bb85a1",
-          "end": 49,
-          "start": 31,
+          "end": 73,
+          "start": 41,
           "example_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
           "tag_name": "University",
           "value": "Gdański Uniwersytet Medyczny",
@@ -383,7 +383,7 @@
               "timestamp": "2020-03-21T00:24:32.098000Z",
               "annotator_id": 1,
               "tagged_token_id": "979b6f5d-8e2d-4214-9e08-cc283ac3df1e",
-              "name": "Ashpat123",
+              "name": "by_jamroz_mateusz",
               "reason": "exploration"
             }
           ],

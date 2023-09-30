@@ -1,0 +1,116 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hello!",
+        "Hi there!",
+        "Good day."
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi! How may I help you?",
+        "Good day! What can I do for you?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "What can I choose from?",
+        "Tell me my options.",
+        "What are the alternatives?"
+      ],
+      "responses": [
+        "You have several options to choose from. Here are a few: Option A, Option B, and Option C.",
+        "Your options include Option X, Option Y, and Option Z. Which one would you like to explore further?",
+        "Certainly! Some of your options include Option 1, Option 2, and Option 3. How can I assist you with your choice?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": [
+        "Goodbye!",
+        "See you later!",
+        "Farewell."
+      ],
+      "responses": [
+        "Goodbye! If you have more questions in the future, feel free to return.",
+        "See you later! Have a great day.",
+        "Farewell! Don't hesitate to come back if you need assistance in the future."
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "What's the weather like today?",
+        "Tell me the weather forecast.",
+        "Is it going to rain?"
+      ],
+      "responses": [
+        "Sure! Let me check the weather for you.",
+        "The weather today is sunny with a high of 75°F.",
+        "It looks like we'll have some rain showers later. The temperature will be around 68°F."
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "faq",
+      "patterns": [
+        "Can you help me with a frequently asked question?",
+        "I have a question about your services.",
+        "What are your operating hours?"
+      ],
+      "responses": [
+        "Of course! I'd be happy to assist you with common questions.",
+        "Sure, feel free to ask any questions you have in mind.",
+        "Our operating hours are from 9:00 AM to 6:00 PM, Monday to Friday."
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "product_inquiry",
+      "patterns": [
+        "Tell me more about your latest product.",
+        "What features does your product have?",
+        "How much does your product cost?"
+      ],
+      "responses": [
+        "Our latest product is a state-of-the-art device designed to enhance your productivity. It features advanced technology and a user-friendly interface.",
+        "Certainly! Our product comes with a range of features, including high-speed processing, long battery life, and a sleek design.",
+        "The price of our product varies depending on the model and configuration. You can check our website or contact our sales team for pricing details."
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "travel_planning",
+      "patterns": [
+        "I'm planning a vacation. Can you help me with travel recommendations?",
+        "What are some popular travel destinations?",
+        "Tell me about travel packages."
+      ],
+      "responses": [
+        "Of course! I'd be happy to help you plan your vacation. Where are you thinking of going?",
+        "Certainly! Some popular travel destinations include Paris, Bali, and New York. Where would you like to explore?",
+        "We offer a variety of travel packages, including all-inclusive deals and customized itineraries. What type of package are you interested in?"
+      ],
+      "context": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 from context.Context import Context
 from service.executors.Executor import Executor
+from service.executors.NerModelExecutor import NerModelExecutor
+from service.executors.PrepareDataExecutor import PrepareDataExecutor
+from service.executors.ResponseGeneratorExecutor import ResponseGeneratorExecutor
 from util.extractor.header_extractor import extract_session_id, extract_lang
 from util.managers.SessionManager import SessionManager
 from pojo.Session import Session
@@ -9,7 +12,11 @@ class ModelService:
     def __int__(self):
         self.sessions = {}
         self.session_manager = SessionManager()
-        self.action_executors: list[Executor] = []
+        self.action_executors: list[Executor] = [
+            NerModelExecutor(),
+            PrepareDataExecutor(),
+            ResponseGeneratorExecutor()
+        ]
 
     def handle_conversation_request(self, request):
         session_id = extract_session_id(request)

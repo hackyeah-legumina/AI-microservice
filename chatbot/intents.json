@@ -1,48 +1,91 @@
 {
   "intents": [
     {
-      "tag": "greetings",
+      "tag": "Welcome",
       "patterns": [
+        "Cześć!",
+        "Witaj!",
+        "Dzień dobry!",
+        "Hej!",
         "Hello!",
-        "Hi there!",
-        "Good day."
+        "Hi!",
+        "Witajcie!",
+        "Jak się masz?",
+        "Co słychać?",
+        "Czołem!"
       ],
       "responses": [
-        "Hello! How can I assist you today?",
-        "Hi! How may I help you?",
-        "Good day! What can I do for you?"
+        "Cześć! Jak mogę ci dzisiaj pomóc?",
+        "Witaj! Cieszę się, że jesteś.",
+        "Dzień dobry! Co nowego?",
+        "Hej! Jestem tutaj, aby pomóc.",
+        "Hello! Jak się czujesz dzisiaj?",
+        "Hi! Co mogę dla ciebie zrobić?",
+        "Witajcie! Jesteście gotowi na rozmowę?",
+        "Hej! W czym mogę pomóc?",
+        "Czołem! Co słychać?",
+        "Witaj! Jestem dostępny, aby odpowiedzieć na twoje pytania."
       ],
       "context": [
         ""
       ]
     },
     {
-      "tag": "options",
+      "tag": "Goodbye",
       "patterns": [
-        "What can I choose from?",
-        "Tell me my options.",
-        "What are the alternatives?"
+        "Do zobaczenia!",
+        "Miło było porozmawiać. Do następnego razu!",
+        "Żegnaj!",
+        "Dziękuję za rozmowę!",
+        "Trzymaj się!",
+        "Pozdrowienia!",
+        "Do usłyszenia!",
+        "Spokojnego dnia!",
+        "Wracaj wkrótce!",
+        "Miłego wieczoru!",
+        "Żegnam na razie!",
+        "Dobranoc!",
+        "Do spotkania wkrótce!",
+        "Baw się dobrze!",
+        "Dzięki za rozmowę!",
+        "Pamiętaj, że jestem tutaj, gdy będziesz potrzebować pomocy!",
+        "Pozdrawiam!",
+        "Do widzenia, przyjacielu!",
+        "Do zobaczenia następnym razem!",
+        "Trzymaj się ciepło!",
+        "Pa"
       ],
       "responses": [
-        "You have several options to choose from. Here are a few: Option A, Option B, and Option C.",
-        "Your options include Option X, Option Y, and Option Z. Which one would you like to explore further?",
-        "Certainly! Some of your options include Option 1, Option 2, and Option 3. How can I assist you with your choice?"
+        "Do zobaczenia! Jeśli masz jeszcze jakieś pytania, nie wahaj się wrócić.",
+        "Dobranoc! Śpij dobrze.",
+        "Żegnaj! Mam nadzieję, że miałaś/eś udaną rozmowę.",
+        "Dzięki za rozmowę! Jeśli potrzebujesz pomocy w przyszłości, jestem tutaj.",
+        "Trzymaj się! Życzę miłego dnia.",
+        "Pozdrowienia! Jeśli coś jeszcze przyjdzie ci do głowy, pisz śmiało.",
+        "Do usłyszenia! Wróć, kiedy tylko będziesz potrzebować wsparcia.",
+        "Spokojnego dnia! Odpocznij trochę.",
+        "Wracaj wkrótce! Chętnie odpowiem na twoje pytania.",
+        "Miłego wieczoru! Jeśli coś cię zaniepokoi, nie krępuj się pisać."
       ],
       "context": [
         ""
       ]
     },
     {
-      "tag": "bye",
+      "tag": "FindStudies",
       "patterns": [
-        "Goodbye!",
-        "See you later!",
-        "Farewell."
+        "Czy istnieje uczelnia o nazwie {university_name} w {city}?",
+        "Czy uczelnia {university_name} znajduje się w {city}?",
+        "Czy uczelnia {university_name} oferuje kierunek studiów na {kierunek}?",
+        "Czy uczelnia {university_name} w {city} oferuje zarówno studia dzienne, jak i zaoczne?",
+        "Jakie są perspektywy zawodowe po ukończeniu studiów na uczelni {university_name} w {city}?",
+        "Pokaz dostepne uczelnie w {city}",
+        "Pokaz informacje o uczelni {university_name}",
+        "Uczelnia {university_name}",
+        "Kierunki studiow w {city}"
       ],
       "responses": [
-        "Goodbye! If you have more questions in the future, feel free to return.",
-        "See you later! Have a great day.",
-        "Farewell! Don't hesitate to come back if you need assistance in the future."
+        "Oto wyniki: {result}"
       ],
       "context": [
         ""

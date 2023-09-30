@@ -9,14 +9,14 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout
 import random
 
-try:
-    _create_unverified_https_context = ssl._create_unverified_context
-except AttributeError:
-    pass
-else:
-    ssl._create_default_https_context = _create_unverified_https_context
-
-nltk.download()
+# Run only once, when nltk packages needs to be configured
+# try:
+#     _create_unverified_https_context = ssl._create_unverified_context
+# except AttributeError:
+#     pass
+# else:
+#     ssl._create_default_https_context = _create_unverified_https_context
+# nltk.download()
 
 lemmatizer = WordNetLemmatizer()
 
@@ -82,6 +82,6 @@ model.add(Dense(len(train_y[0]), activation='softmax'))
 
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
+hist = model.fit(np.array(train_x), np.array(train_y), epochs=250, batch_size=5, verbose=1)
 model.save('chatbot_model.h5', hist)
 print("model created")
