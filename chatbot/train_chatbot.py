@@ -1,8 +1,13 @@
-import nltk
-from nltk.stem import WordNetLemmatizer
+import ssl
 
 import nltk
-import ssl
+from nltk.stem import WordNetLemmatizer
+import json
+import pickle
+import numpy as np
+from keras.models import Sequential
+from keras.layers import Dense, Dropout
+import random
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -14,13 +19,6 @@ else:
 nltk.download()
 
 lemmatizer = WordNetLemmatizer()
-import json
-import pickle
-import numpy as np
-from keras.models import Sequential
-from keras.layers import Dense, Activation, Dropout
-from keras.optimizers import SGD
-import random
 
 words = []
 classes = []

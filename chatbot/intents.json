@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hello!",
+        "Hi there!",
+        "Good day."
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi! How may I help you?",
+        "Good day! What can I do for you?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "What can I choose from?",
+        "Tell me my options.",
+        "What are the alternatives?"
+      ],
+      "responses": [
+        "You have several options to choose from. Here are a few: Option A, Option B, and Option C.",
+        "Your options include Option X, Option Y, and Option Z. Which one would you like to explore further?",
+        "Certainly! Some of your options include Option 1, Option 2, and Option 3. How can I assist you with your choice?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": [
+        "Goodbye!",
+        "See you later!",
+        "Farewell."
+      ],
+      "responses": [
+        "Goodbye! If you have more questions in the future, feel free to return.",
+        "See you later! Have a great day.",
+        "Farewell! Don't hesitate to come back if you need assistance in the future."
+      ],
+      "context": [
+        ""
+      ]
+    }
+  ]
+}
