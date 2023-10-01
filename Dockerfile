@@ -12,6 +12,3 @@ RUN pip install -r requirements.txt --default-timeout=10000
 
 # copy every content from the local file to the image
 COPY . /app
-
-# configure the container to run in an executed manner
-ENTRYPOINT [ "python" ]
