@@ -5,7 +5,10 @@ from service.executors.Executor import Executor
 class ResponseGeneratorExecutor(Executor):
 
     def execute(self, context: Context):
-        context.response = self.create_response(context.response)
+        try:
+            context.response = self.create_response(context.response)
+        except:
+            context.response = self.create_response(context.response[0])
 
     def create_response(self, response):
         return {

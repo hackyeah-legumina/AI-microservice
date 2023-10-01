@@ -15,8 +15,7 @@ action_executors: list[Executor] = [
     LanguageExecutor(),
     ClassificationModelExecutor(),
     NerModelExecutor(),
-    TagExecutor(),
-    ResponseGeneratorExecutor()
+    TagExecutor()
 ]
 
 
