@@ -1,3 +1,7 @@
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+
 from flask import Flask
 from flask import request
 
