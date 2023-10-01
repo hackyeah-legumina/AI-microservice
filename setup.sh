@@ -2,7 +2,14 @@ echo "Starting first model training"
 cd chatbot
 python3 train_chatbot.py
 
+
 cd ../
+
+rm -rf chatbot_data/chatbot_model.h5
+rm -rf chatbot_data/classes.pkl
+rm -rf chatbot_data/words.pkl
+rm -rf chatbot_data/model-best
+
 mv chatbot/chatbot_model.h5 chatbot_data/chatbot_model.h5
 mv chatbot/classes.pkl chatbot_data/classes.pkl
 mv chatbot/words.pkl chatbot_data/words.pkl
@@ -18,5 +25,5 @@ python3 -m spacy init fill-config base_config.cfg config.cfg
 python3 -m spacy train config.cfg --output ./ --paths.train ./train.spacy --paths.dev ./train.spacy
 
 cd ../
-mv custom_ner_model_pl/model-best chatbot_data/model-best
+mv -n custom_ner_model_pl/model-best chatbot_data/
 echo "Finished processing second model"
