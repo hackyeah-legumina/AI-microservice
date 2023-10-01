@@ -2,8 +2,7 @@ from context.Context import Context
 from service.executors.ClassificationModelExecutor import ClassificationModelExecutor
 from service.executors.Executor import Executor
 from service.executors.NerModelExecutor import NerModelExecutor
-from service.executors.PrepareDataExecutor import PrepareDataExecutor
-from service.executors.ResponseGeneratorExecutor import ResponseGeneratorExecutor
+from service.executors.classification.TagExecutor import TagExecutor
 from util.extractor.header_extractor import extract_session_id, extract_lang
 from util.managers.SessionManager import SessionManager
 from pojo.Session import Session
@@ -11,7 +10,9 @@ from pojo.Session import Session
 sessions = {}
 session_manager = SessionManager()
 action_executors: list[Executor] = [
-    ClassificationModelExecutor()
+    ClassificationModelExecutor(),
+    NerModelExecutor(),
+    TagExecutor()
 ]
 
 

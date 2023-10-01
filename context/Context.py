@@ -8,3 +8,5 @@ class Context:
         self.language = language
         self.request = request
         self.response = None
+        self.labels = []
+        self.classification_tag = ""
