@@ -10,3 +10,4 @@ class Context:
         self.response = None
         self.labels = []
         self.classification_tag = ""
+        self.doc = None

@@ -8,3 +8,4 @@ class NerModelExecutor(Executor):
     def execute(self, context: Context):
         doc = NLP_MODEL(context.request["text"])
         context.labels = [ent.label_ for ent in doc.ents]
+        context.doc = doc

@@ -7,7 +7,8 @@ class TagExecutor(Executor):
 
     def __init__(self):
         self.tag_dict_executor = {
-            "FindStudies": FindStudiesExecutor()
+            "FindStudies": FindStudiesExecutor(),
+            "FAQ": FaqExecutor()
         }
 
     def execute(self, context: Context):
