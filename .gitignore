@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea
+custom_ner_model_pl
+chatbot
 # C extensions
 *.so
 

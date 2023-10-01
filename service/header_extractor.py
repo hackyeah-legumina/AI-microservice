@@ -7,6 +7,6 @@ def extract_session_id(request):
 
 def extract_lang(request):
     if 'LANG' not in request.headers.keys():
-        return "EN"
+        return "PL"
 
-    return request.headers['BOT_SESSION_ID']
+    return request.headers['LANG']

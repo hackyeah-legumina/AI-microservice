@@ -9,7 +9,7 @@ app = Flask(__name__)
 init_static_context()
 
 
-@app.route("/", methods = ['POST'])
+@app.route("/chat", methods = ['POST'])
 def hello_world():
     return handle_conversation_request(request)
 
